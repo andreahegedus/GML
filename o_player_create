@@ -1,0 +1,5 @@
+/// @description Create event for the object Player
+vsp = 0; //vertical speed
+hsp = 0; // horizontal speed
+grv = 0.3; //gravity
+walksp = 5; //walkingspeed
